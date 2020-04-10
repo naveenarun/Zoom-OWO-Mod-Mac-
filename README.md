@@ -18,4 +18,4 @@ Ever looked at your Zoom app and thought, "man, this could really use some owo"?
 
 Want to make your own mods? You can create a new `lproj` folder in the `Resources` directory using any of the language codes [here](http://www.loc.gov/standards/iso639-2/php/English_list.php), including e.g. `tlh.lproj` for Klingon. You only need to modify the predicates in `Localizable.strings` and `InfoPlist.strings`.
 
-The [Python script](https://github.com/naveenarun/Zoom-OWO-Mod-Mac-/blob/master/ile.lproj/owoize.py) included `ile.lproj` uses [owotrans](https://github.com/usvimal/owotrans) to owoize strings.
+The [Python script](https://github.com/naveenarun/Zoom-OWO-Mod-Mac-/blob/master/ile.lproj/owoize.py) included `ile.lproj` uses [owotrans](https://github.com/usvimal/owotrans) to owoize strings. Install using `pip install owotranslator`.
