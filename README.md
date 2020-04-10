@@ -1,6 +1,6 @@
 # owoize your Zoom Client
 
-Ever looked at your `zoom.us` app and thought, "man, this could really use some owo"? If so, you've come to the right place!
+Ever looked at your Zoom app and thought, "man, this could really use some owo"? If so, you've come to the right place!
 
 ![screenshot](https://github.com/naveenarun/Zoom-OWO-Mod-Mac-/blob/master/screenshot.png)
 
